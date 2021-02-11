@@ -9,6 +9,10 @@ public class Main {
         System.out.println("Olá GitHub!");
         
         // Comentário para atualização.
+        
+        // Processo:
+        // 1º - fazer commit
+        
     }
     
 }
