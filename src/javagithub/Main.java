@@ -11,7 +11,8 @@ public class Main {
         // Comentário para atualização.
         
         // Processo:
-        // 1º - fazer commit
+        // 1º - fazer commit; atualiza o repositório local.
+        // 2º - fazer push para o repositório remoto.
         
     }
     
